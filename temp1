@@ -1,0 +1,32 @@
+//此为自己创建的仓库，仓库内为较新的线路；
+//所有线路均收集于网络，保存或粘贴到自己域名内，方便调用
+{
+    "urls": [
+
+        {
+            "url": "http://肥猫.live",
+            "name": "肥猫"
+        },
+        {
+            "url": "http//xhztv.top/4k.json",
+            "name": "小盒子"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://毒盒.com/tv/dc.json",
+            "name": "毒盒单仓"
+        },
+        {
+            "url": "https://gh.three2all.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
+            "name": "饭太硬+道长"
+        },
+        {
+            "url": "https://gh.three2all.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0821.json",
+            "name": "饭太硬+大而全"
+        }
+
+    ]
+}
