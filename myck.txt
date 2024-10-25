@@ -4,24 +4,28 @@
     "urls": [
 
         {
-            "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-            "name": "liu673cn 20240516 https://github.com/liu673cn/box"
+            "url": "http://肥猫.live",
+            "name": "肥猫"
         },
         {
-            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
-            "name": "https://github.com/gaotianliuyun/gao 0821"
+            "url": "http//xhztv.top/4k.json",
+            "name": "小盒子"
         },
         {
-            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-            "name": "https://github.com/gaotianliuyun/gao 0825"
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
         },
         {
-            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "https://github.com/gaotianliuyun/gao XYQ"
+            "url": "https://毒盒.com/tv/dc.json",
+            "name": "毒盒单仓"
         },
         {
-            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "https://github.com/gaotianliuyun/gao js"
+            "url": "https://gh.three2all.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
+            "name": "饭太硬+道长"
+        },
+        {
+            "url": "https://gh.three2all.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0821.json",
+            "name": "饭太硬+大而全"
         }
 
     ]
