@@ -1,0 +1,28 @@
+//此为自己创建的仓库，仓库内为较新的线路；
+//所有线路均收集于网络，保存或粘贴到自己域名内，方便调用
+{
+    "urls": [
+
+        {
+            "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "name": "liu673cn 20240516 https://github.com/liu673cn/box"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+            "name": "https://github.com/gaotianliuyun/gao 0821"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+            "name": "https://github.com/gaotianliuyun/gao 0825"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "https://github.com/gaotianliuyun/gao XYQ"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "https://github.com/gaotianliuyun/gao js"
+        }
+
+    ]
+}
