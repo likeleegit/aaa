@@ -1,7 +1,7 @@
 {
   "storeHouse":  [
-    {"sourceName":"like仓库","sourceUrl": "https://codeberg.org/codebergtmp/tmp/raw/branch/main/myck.txt"},
+    {"sourceName":"like仓库","sourceUrl": "https://gh.three2all.com/https://raw.githubusercontent.com/likeleegit/temp/refs/heads/main/myck.txt"},
     { "sourceName":"毒盒仓库1","sourceUrl":"https://毒盒.com/tv/dc.json"}
-    { "sourceName":"其他仓库2","sourceUrl":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt"}
+    { "sourceName":"其他仓库2","sourceUrl":"https://gh.three2all.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt"}
   ]
 }
